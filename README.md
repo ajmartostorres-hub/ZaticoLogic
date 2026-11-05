@@ -7,11 +7,10 @@
 
 # ZaticoLogic — Simulador de Lógica Combinacional
 
-
-[Última Versión](https://github.com/ajmartostorres-hub/ZATICOLOGIC/releases)
-[Descargar Ejecutable](https://github.com/ajmartostorres-hub/ZATICOLOGIC/releases)
-[Licencia](LICENSE)
-[Python](https://www.python.org/)
+[![Última Versión](https://img.shields.io/github/v/release/ajmartostorres-hub/TRIGOPV?style=flat-square&color=blue)](https://github.com/ajmartostorres-hub/ZaticoLogic/releases)
+[![Descargar Executable](https://img.shields.io/badge/Descargar-.exe-brightgreen?style=flat-square&logo=windows)](https://github.com/ajmartostorres-hub/ZaticoLogic/releases)
+[![Licencia](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](LICENSE)
+[![Python](https://img.shields.io/badge/GUI-PySide6%20%2F%20Qt6-green.svg?style=flat-square)](https://pyside.org)
 
 ZaticoLogic es una aplicación de escritorio para Windows y Linux pensada para el aula: permite introducir una función lógica, una tabla de verdad o un circuito de puertas y obtener al instante todas las demás representaciones.
 
