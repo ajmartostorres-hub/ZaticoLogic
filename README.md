@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ZaticoLogic_banner.jpg"
+  <img src="assets/ZaticoLogic_banner.png"
        alt="ZaticoLogic - Simulador de Lógica Combinacional"
        width="100%">
 </p>
