@@ -1,5 +1,6 @@
 # ZaticoLogic — Simulador de Lógica Combinacional
 
+
 [Última Versión](https://github.com/ajmartostorres-hub/ZATICOLOGIC/releases)
 [Descargar Ejecutable](https://github.com/ajmartostorres-hub/ZATICOLOGIC/releases)
 [Licencia](LICENSE)
