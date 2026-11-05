@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assets/ZaticoLogic_banner.jpg"
+       alt="ZaticoLogic - Simulador de Lógica Combinacional"
+       width="100%">
+</p>
+
+
 # ZaticoLogic — Simulador de Lógica Combinacional
 
 
