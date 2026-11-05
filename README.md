@@ -9,8 +9,7 @@
 
 [![Última Versión](https://img.shields.io/github/v/release/ajmartostorres-hub/TRIGOPV?style=flat-square&color=blue)](https://github.com/ajmartostorres-hub/ZaticoLogic/releases)
 [![Descargar Executable](https://img.shields.io/badge/Descargar-.exe-brightgreen?style=flat-square&logo=windows)](https://github.com/ajmartostorres-hub/ZaticoLogic/releases)
-[![Descargar Windows](https://img.shields.io/badge/Descargar-.exe-brightgreen?style=flat-square&logo=windows)](https://github.com/ajmartostorres-hub/TRIGOPV/releases)
-[![Descargar Linux](https://img.shields.io/badge/Descargar-.deb-orange?style=flat-square&logo=debian&logoColor=white)](https://github.com/ajmartostorres-hub/TRIGOPV/releases)
+[![Descargar Linux](https://img.shields.io/badge/Descargar-.deb-orange?style=flat-square&logo=debian&logoColor=white)](https://github.com/ajmartostorres-hub/ZaticoLogic/releases)
 
 
 [![Licencia](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](LICENSE)
