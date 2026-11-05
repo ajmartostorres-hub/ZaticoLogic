@@ -25,12 +25,12 @@ No necesitas instalar Python ni configurar dependencias.
    Dirígete a la sección de [Lanzamientos / Releases](https://github.com/ajmartostorres-hub/ZATICOLOGIC/releases).
 2. **Descarga el archivo de tu sistema:**
    - Windows: `ZaticoLogic.exe`
-   - Linux (Debian, Ubuntu, Linux Mint…): `zaticologic_1.0_all.deb`
+   - Linux (Debian, Ubuntu, Linux Mint…): `zaticologic_X.0_all.deb`
 3. **Ejecuta la aplicación:**
    - Windows: haz doble clic sobre `ZaticoLogic.exe`.
    - Linux: instala el paquete con doble clic o desde una terminal con
      ```bash
-     sudo apt install ./zaticologic_1.0_all.deb
+     sudo apt install ./zaticologic_X.0_all.deb
      ```
      y ábrelo desde el menú de aplicaciones.
 
